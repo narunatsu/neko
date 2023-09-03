@@ -1,0 +1,19 @@
+@charset "UTF-8";
+ html{
+background-color: bisque;
+ }
+div.nekoneko {
+    background-color: aliceblue;
+    text-align: center;
+    width: auto;
+}
+div.neko  {
+    text-align: right
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    text-decoration: aquamarine;
+}
